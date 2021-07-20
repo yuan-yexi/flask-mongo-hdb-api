@@ -1,0 +1,4 @@
+.venvs
+.env
+ca-certificate.crt
+*.pyc
